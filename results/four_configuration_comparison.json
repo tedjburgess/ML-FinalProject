@@ -1,0 +1,30 @@
+[
+  {
+    "algorithm":"Linear Regression from scratch",
+    "features":"Bodyweight only",
+    "MAE":27.8559696716,
+    "RMSE":35.0857532284,
+    "R2":0.4171522442
+  },
+  {
+    "algorithm":"Linear Regression from scratch",
+    "features":"Bodyweight + age + sex",
+    "MAE":21.4068939046,
+    "RMSE":28.0529093429,
+    "R2":0.6273944357
+  },
+  {
+    "algorithm":"Random Forest",
+    "features":"Bodyweight only",
+    "MAE":26.0988571909,
+    "RMSE":33.6399764301,
+    "R2":0.4641973153
+  },
+  {
+    "algorithm":"Random Forest",
+    "features":"Bodyweight + age + sex",
+    "MAE":18.2838474921,
+    "RMSE":24.2098913548,
+    "R2":0.7224896401
+  }
+]

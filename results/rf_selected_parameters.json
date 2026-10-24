@@ -1,0 +1,10 @@
+{
+  "A Bodyweight only": {
+    "max_depth": 10,
+    "min_samples_leaf": 20
+  },
+  "B Bodyweight + age + sex": {
+    "max_depth": 10,
+    "min_samples_leaf": 20
+  }
+}

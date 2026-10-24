@@ -1,0 +1,50 @@
+[
+  {
+    "configuration":"A Bodyweight only",
+    "version":"Starting",
+    "MAE":26.8785553863,
+    "RMSE":34.9101701013,
+    "R2":0.420194212,
+    "RMSE_fold_SD":0.2252991239,
+    "settings":{
+      "max_depth":null,
+      "min_samples_leaf":1
+    }
+  },
+  {
+    "configuration":"A Bodyweight only",
+    "version":"Selected",
+    "MAE":25.8845699968,
+    "RMSE":33.388752562,
+    "R2":0.4696350238,
+    "RMSE_fold_SD":0.1948264098,
+    "settings":{
+      "max_depth":10,
+      "min_samples_leaf":20
+    }
+  },
+  {
+    "configuration":"B Bodyweight + age + sex",
+    "version":"Starting",
+    "MAE":20.4773284071,
+    "RMSE":26.9167004511,
+    "R2":0.655310665,
+    "RMSE_fold_SD":0.175194273,
+    "settings":{
+      "max_depth":null,
+      "min_samples_leaf":1
+    }
+  },
+  {
+    "configuration":"B Bodyweight + age + sex",
+    "version":"Selected",
+    "MAE":18.2391712332,
+    "RMSE":23.9972689568,
+    "R2":0.7260238451,
+    "RMSE_fold_SD":0.18601592,
+    "settings":{
+      "max_depth":10,
+      "min_samples_leaf":20
+    }
+  }
+]

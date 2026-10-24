@@ -1,0 +1,37 @@
+{
+  "training_medians_by_sex": {
+    "BodyweightKg": {
+      "F": 66.6,
+      "M": 88.2
+    },
+    "Age": {
+      "F": 28.0,
+      "M": 26.0
+    },
+    "Best3BenchKg": {
+      "F": 62.5,
+      "M": 132.5
+    }
+  },
+  "training_sex_counts": {
+    "M": 28210,
+    "F": 11790
+  },
+  "training_correlations": {
+    "BodyweightKg": {
+      "BodyweightKg": 1.0,
+      "Age": 0.16962143003910332,
+      "Best3BenchKg": 0.6509921098481555
+    },
+    "Age": {
+      "BodyweightKg": 0.16962143003910332,
+      "Age": 1.0,
+      "Best3BenchKg": 0.06976341647719704
+    },
+    "Best3BenchKg": {
+      "BodyweightKg": 0.6509921098481555,
+      "Age": 0.06976341647719704,
+      "Best3BenchKg": 1.0
+    }
+  }
+}

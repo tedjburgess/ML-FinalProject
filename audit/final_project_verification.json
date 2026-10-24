@@ -1,0 +1,24 @@
+{
+  "reference_commit": "9842b408f6d6ffbcc20b6082876897ddc363c574",
+  "ted_source_cells_preserved_verbatim": 44,
+  "fresh_kernel_executed_code_cells": 25,
+  "individual_notebooks_unchanged": true,
+  "rf_test_metrics_recomputed_from_predictions": [
+    {
+      "configuration": "A Bodyweight only",
+      "MAE": 26.09885719092229,
+      "RMSE": 33.63997643005278,
+      "R2": 0.4641973153422745
+    },
+    {
+      "configuration": "B Bodyweight + age + sex",
+      "MAE": 18.28384749209441,
+      "RMSE": 24.209891354811106,
+      "R2": 0.7224896401172298
+    }
+  ],
+  "test_targets_match_shared_csv": true,
+  "report_numerical_claims_checked": true,
+  "report_scope": "Local Osama report sections draft; final shared PDF not verified",
+  "committed_or_pushed": false
+}
