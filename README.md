@@ -16,6 +16,8 @@ Open the project folder as the notebook working directory, install `requirements
 
 ## Report and presentation
 
-`report/Osama_report_sections.md` is a short draft of the exploration, forest method, results and limitations. It includes figure locations. Read it alongside the notebook and revise any wording before final integration. The notebook ends with presentation questions to help review how the model and evaluation work.
+`report/Osama_report_sections.md` is a short draft of the exploration, forest method, results and limitations. It includes figure locations. Read it alongside the notebook and revise any wording before final integration. The notebook includes the model comparison, conclusion and sources.
 
 `HANDOFF.md` records the shared choices and integration status. The combined notebook includes one shared preparation and split, both model implementations, final evaluation, comparison and conclusion. No commits or pushes were made.
+
+The authorship and result checks are recorded in `audit/`. All 44 original source cells are preserved verbatim in the combined notebook, using the reference commit recorded there.

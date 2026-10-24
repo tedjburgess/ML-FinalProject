@@ -1,9 +1,9 @@
 [
   {
-    "mean_fit_time":11.2677817345,
-    "std_fit_time":3.8420339437,
-    "mean_score_time":0.590446043,
-    "std_score_time":0.2200197575,
+    "mean_fit_time":3.2635813713,
+    "std_fit_time":0.0538665684,
+    "mean_score_time":0.1488186359,
+    "std_score_time":0.0005399197,
     "param_max_depth":null,
     "param_min_samples_leaf":1,
     "params":{
@@ -57,10 +57,10 @@
     "std_train_r2":0.0007298692
   },
   {
-    "mean_fit_time":5.2094724178,
-    "std_fit_time":2.6331753417,
-    "mean_score_time":0.2517968178,
-    "std_score_time":0.1643828312,
+    "mean_fit_time":2.4196493626,
+    "std_fit_time":0.1333939269,
+    "mean_score_time":0.0996652126,
+    "std_score_time":0.0036028788,
     "param_max_depth":null,
     "param_min_samples_leaf":5,
     "params":{
@@ -114,10 +114,10 @@
     "std_train_r2":0.000944825
   },
   {
-    "mean_fit_time":8.0629734039,
-    "std_fit_time":0.1056096807,
-    "mean_score_time":0.3242306709,
-    "std_score_time":0.0154958529,
+    "mean_fit_time":2.0571218014,
+    "std_fit_time":0.1280524136,
+    "mean_score_time":0.0806062698,
+    "std_score_time":0.006262515,
     "param_max_depth":null,
     "param_min_samples_leaf":20,
     "params":{
@@ -171,10 +171,10 @@
     "std_train_r2":0.0013279156
   },
   {
-    "mean_fit_time":7.019906044,
-    "std_fit_time":0.1040284641,
-    "mean_score_time":0.2625424862,
-    "std_score_time":0.0114258825,
+    "mean_fit_time":1.6229979038,
+    "std_fit_time":0.0308288588,
+    "mean_score_time":0.0580897808,
+    "std_score_time":0.0043110725,
     "param_max_depth":10,
     "param_min_samples_leaf":5,
     "params":{
@@ -228,10 +228,10 @@
     "std_train_r2":0.0013540061
   },
   {
-    "mean_fit_time":6.6860560417,
-    "std_fit_time":0.3015412859,
-    "mean_score_time":0.2254285812,
-    "std_score_time":0.029396577,
+    "mean_fit_time":1.5442324162,
+    "std_fit_time":0.0094153836,
+    "mean_score_time":0.0553548813,
+    "std_score_time":0.001091789,
     "param_max_depth":10,
     "param_min_samples_leaf":20,
     "params":{

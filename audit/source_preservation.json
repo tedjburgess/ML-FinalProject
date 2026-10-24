@@ -1,0 +1,11 @@
+{
+  "reference_commit": "9842b408f6d6ffbcc20b6082876897ddc363c574",
+  "reference_notebook": "ted_work.ipynb",
+  "source_cells_compared": 44,
+  "all_source_cells_match_exactly": true,
+  "cell_order_preserved": true,
+  "original_introduction_restored": true,
+  "setup_instructions_removed_from_introduction": true,
+  "source_notebook_files_edited": false,
+  "code_cells_to_execute": 25
+}
